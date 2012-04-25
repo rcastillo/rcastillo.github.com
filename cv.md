@@ -126,7 +126,7 @@ description: ""
 #### Knowledge Discovery One, Inc.
 ###### Leading provider of Retail Analytics
 ##### Austin, TX
-#### Sr. Software Engineer
+##### Sr. Software Engineer
 ###### 6/1997 – 12/1998 - _Acquired by NetPerceptions, Inc._ 
 
 <table>
@@ -165,7 +165,7 @@ description: ""
 		<td>&bull; Design and development of Spyglass HTTP High-Performance Asynchronous Server technology</td>
 	</tr>
 	<tr>
-		<td>&bull; Architecture for Spyglass HTTP embeddable Microserver technology</td>
+		<td>&bull; Architecture for Spyglass HTTP embeddable <a href="http://www.ncns.com/news/997/spy-show.html">Microserver</a> technology</td>
 	</tr>
 </table>
 

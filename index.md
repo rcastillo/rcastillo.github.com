@@ -7,7 +7,8 @@ tagline:
 
 ### Open Source Projects
 * [SiteQuery](https://github.com/rcastillo/sitequery) - An targeted web crawler built on node.js
-* [qrx](http://github.com/loku/qrx) - A distributed node.js work queue built on redis
+* [qrx](https://github.com/loku/qrx) - A distributed node.js work queue built on redis
+* [TicTacNode](https://github.com/loku/tictacnode) - A simple game based on socket.io, backbone.js and node.js 
 
 
 <ul class="posts">

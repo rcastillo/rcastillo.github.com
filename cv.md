@@ -6,6 +6,11 @@ description: ""
 {% include JB/setup %}
 
 ---
+[Development Blog](http://tech.loku.com/author/roger/)  
+[Angel List Profile](http://angel.co/loku)  
+[Open Source Projects](http://rcastillo.github.com)
+
+---
 
 #### Loku, Inc.
 ###### Mobile Local Contextual Discovery
@@ -14,8 +19,6 @@ description: ""
 ###### 02/2010 – Present
 
 [Product link](http://loku.com/app#prettyPhoto/1/)  
-[My Development Blog](http://tech.loku.com/author/roger/)  
-[Angel List Profile](http://angel.co/loku)
 <table>
 	<tr>
 		<strong>Responsible for:</strong>
@@ -82,7 +85,7 @@ description: ""
 		<strong>Responsible for:</strong>
 	</tr>
 	<tr>
-		<td>&bull; Technical account management and project management</td>
+		<td>&bull; Technical account management and project management for Southern Union</td>
     </tr>
 	<tr>
 		<td>&bull; Managing portal delivery team and service deployment</td>
@@ -115,7 +118,7 @@ description: ""
 		<td>&bull; Development budgeting and release roadmap planning</td>
 	</tr>
 	<tr>
-		<td>&bull; Technical account manaagement</td>
+		<td>&bull; Technical account management for light house customers</td>
 	</tr>
 	<tr>
 		<td>&bull; Systems rollout plan and delivery, servicing over 1,000,000 customers in Texas and Missouri</td>
@@ -143,7 +146,7 @@ description: ""
 		<td>&bull; Responsible for developing UI components for KD1 Market Basket Analyzer</td>
 	</tr>
 	<tr>
-		<td>&bull; Solutions deployed at Walgreens, Lowes, Meijer and 30 other large retailer nationwide.</td>
+		<td>&bull; Solutions deployed at Walgreen's, Lowes, Meijer and 30 other large retailer in North America.</td>
 	</tr>
 </table>
 
@@ -172,6 +175,9 @@ description: ""
 ---
 
 ###Education
-The University of Texas at Austin
-Computer Science
-Activities and Societies: Member of the University of Texas Emerging Scholars program in Mathematics
+The University of Texas at Austin <img src="http://assets.sbnation.com/assets/933657/texas_longhorns_logo-803.gif" style="display:inline;height:20px">  
+*Computer Science*  
+#### Honors
+* Two-time GTE Computer Sciences Scholar  
+* Member of the University of Texas Emerging Scholars program in Mathematics
+

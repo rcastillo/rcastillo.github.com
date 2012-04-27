@@ -11,6 +11,10 @@ tagline:
 * [TicTacNode](https://github.com/loku/tictacnode) - A simple game based on socket.io, backbone.js and node.js 
 
 
+### My Loku Blog
+* [tech.loku.com](http://tech.loku.com/author/roger/) 
+
+### Personal Post
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>

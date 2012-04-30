@@ -18,7 +18,10 @@ description: ""
 ##### Chief Technology Officer and Co-Founder   
 ###### 02/2010 – Present
 
-[Product link](http://loku.com/app#prettyPhoto/1/)  
+##### Product Links:
+[Loku Mobile](http://loku.com/app#prettyPhoto/1/)<br> 	
+[Loku Web](http://loku.com/)  
+
 <table>
 	<tr>
 		<strong>Responsible for:</strong>
@@ -45,7 +48,8 @@ description: ""
 ##### Chief Technology Officer and Founder 
 ###### 06/2001 – 09/2008 - _Acquired by Versata, Inc. _  
 
-[Product Link](http://www.alterpoint.com/)
+##### Product Links
+[Network Authority](http://www.alterpoint.com/)
 
 <table>
 	<tr>
